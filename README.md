@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## HELLO WORLD
 
-You can use the [editor on GitHub](https://github.com/hienngt/hienngt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- I'm Hiennt
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I studied Applied Mathematics and Informatics at Hanoi University of Science and Technology.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Data Engineer - Shopee - HCM, Vietnam.
 
-```markdown
-Syntax highlighted code block
+- Contact: hien2797@gmail.com. Or check my <a href="https://www.linkedin.com/in/hien-nguyen-65b1b7150/"> LinkedIN </a>, <a href="https://github.com/hienngt"> Github. </a>
 
-# Header 1
-## Header 2
-### Header 3
+### Work Experience
 
-- Bulleted
-- List
+- Data Engineer - Shopee - Ho Chi Minh, Vietnam
+  
+  Jul 2021 - Present
 
-1. Numbered
-2. List
+- Software Engineer - FPT Software - Hanoi, Vietnam
+  
+  Mar 2021 - Jun 2021
+  
+- Data Engineer - GHTK, JSC - Hanoi, Vietnam
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hienngt/hienngt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Feb 2020 - Mar 2021
